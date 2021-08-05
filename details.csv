@@ -1,0 +1,4 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ACCOUNTNO","NUMBER(6,0)","No","","1"
+"NAME","VARCHAR2(20)","Yes","",""
+"BALANCE","NUMBER(10,2)","Yes","",""
